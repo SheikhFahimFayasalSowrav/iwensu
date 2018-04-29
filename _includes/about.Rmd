@@ -1,6 +1,0 @@
----
-title: "About Me"
-output: html_document
----
-
-Graycale is a free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, simply download the template.
