@@ -1,1 +1,1 @@
-[{"allow_restart":false,"alt_buffer":false,"autoclose":1,"buffered_output":"fatal: HttpRequestException encountered.\n   An error occurred while sending the request.\nTo https://github.com/iwensu0313/iwensu0313.github.io.git\n   1b10887..07a0ea8  master -> master\n","caption":"Git Push","channel_id":"","channel_mode":0,"child_procs":false,"cols":80,"cwd":"","exit_code":0,"handle":"2053C067","interaction_mode":0,"max_output_lines":500,"restarted":false,"rows":25,"shell_type":0,"show_on_output":false,"terminal_sequence":0,"title":"","track_env":false,"zombie":false}]
+[]
