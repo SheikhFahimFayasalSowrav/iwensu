@@ -3152,6 +3152,7 @@
  */
 
  .recent-posts li {
-	 font-size: 20px;
+   list-style-type: none;
+	 font-size: 17px;
 	 line-height: 36px;
  }
