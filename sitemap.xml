@@ -3,44 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iwensu0313.github.io/post/ohi-fellows-roundtable/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iwensu0313.github.io/post/a-conversation-about-aquaculture/</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iwensu0313.github.io/post/seaweed-aquaculture-in-southern-california/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iwensu0313.github.io/post/vse-mussel-farming-lease/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iwensu0313.github.io/post/presentations-workshops-rmd/</loc>
-    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iwensu0313.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://iwensu0313.github.io/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://iwensu0313.github.io/post/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/presentations-workshops-rmd/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/ohi-fellows-roundtable/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/a-conversation-about-aquaculture/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/seaweed-aquaculture-in-southern-california/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/vse-mussel-farming-lease/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/present/presentations-workshops-rmd/</loc>
+    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
